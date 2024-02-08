@@ -1,2 +1,2 @@
-# tpgit
-Laboratoire de prise en main git 
+# Bienvenu sur mon super blog!
+Laboratoire de prise en main de Git
